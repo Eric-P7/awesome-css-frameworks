@@ -93,6 +93,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jenil/chota)
   | #CSS
 
+- [**Eternium**](https://vorticode.github.io/eternium/) - Modern flex layounts and form elements.
+  ![](https://img.shields.io/github/stars/vorticode/eternium.svg?style=social&label=Star)
+  [Docs]([https://jenil.github.io/chota/#docs](https://vorticode.github.io/eternium/)),
+  [Repo](https://github.com/vorticode/eternium)
+  | #CSS
+
 
 ## General Purpose
 
